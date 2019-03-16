@@ -1,4 +1,66 @@
 .fancy-header {
     color: purple;
     text-decoration: underline;
+
+}
+
+#top{
+    text-align: center;
+}
+
+h2{
+    color: green;
+    text-decoration: underline;
+}
+
+
+body{
+    background-image: url(../img/vegas_img.jpg);
+    height: 660px;
+    width: 1510px;
+    background-color: darkblue;
+}
+
+li{
+    color: aliceblue;
+}
+
+ul{
+    list-style: square;
+}
+
+html{
+    font-family: "Apple SD Gothic Neo";
+}
+
+
+
+    th{
+        font-family: Tahoma;
+      color: darkorange;
+    }
+
+    tr{
+        font-style: italic;
+        color: lightseagreen;
+    }
+
+a:link {
+    color:silver;
+}
+
+a:visited {
+    color:white;
+}
+
+a:hover {
+    color:red;
+}
+
+a:active {
+    color:teal;
+}
+
+p{
+    color:cyan ;
 }
