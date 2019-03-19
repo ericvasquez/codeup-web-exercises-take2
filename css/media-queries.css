@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+a{
+    color: black;
+text-decoration: none;
+}
+
+.alert-info{
+    align-content: center;
+    background-color: #d6fefe;
+    text-align: center;
+    padding:  20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.nav-links{
+    list-style: none;
+    background-color: white;
+    padding-left: 0;
+    text-align: center;
+
+
+}
+
+li {
+    list-style: none;
+    background-color: #ddd;
+    margin-bottom: 10px;
+    padding: 0;
+
+}
+
+li>a {
+    display: block;
+    width: 100%;
+    padding: 20px 0;
+    color: blue;
+    text-decoration: underline;
+}
