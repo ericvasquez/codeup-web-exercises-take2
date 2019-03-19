@@ -41,3 +41,43 @@ li>a {
     color: blue;
     text-decoration: underline;
 }
+
+@media screen and (min-width:768px) {
+
+    .alert-info{
+        display: none;
+    }
+    h1 {
+        text-align: left;
+        font-size: 2.5em;
+        float: left;
+    }
+    img {
+        margin-top: 40px;
+        width: 100%;
+    }
+    nav {
+        float: right;
+    }
+
+    li {
+        float: left;
+        margin-left: 30px;
+        list-style: none;
+        padding: 0;
+        background-color: white;
+    }
+section{
+    float: left;
+}
+#main{
+    width: 60%;
+}
+.sub-section{
+    width: 40%;
+}
+
+footer{
+    text-align: left;
+}
+}
