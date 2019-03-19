@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+.row {
+    width:100%;
+    background-color: #e1e1e1;
+    margin-bottom: 10px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column {
+    float: left;
+padding: 10px;
+    border: 1px solid black;
+}
+
+.column.one-third {
+    width: 33.33%;
+}
+
+.column.one-half {
+    width: 50%;
+}
+
+.column.one-fourth {
+    width: 25%;
+}
+
+.column.one-sixth{
+    width: 16.66%;
+}
+
+.column.one-eighth {
+    width: 12.5%;
+}
+
+
