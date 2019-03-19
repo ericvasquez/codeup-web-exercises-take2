@@ -22,8 +22,6 @@ h1{
     background-color: white;
     padding-left: 0;
     text-align: center;
-
-
 }
 
 li {
@@ -31,7 +29,6 @@ li {
     background-color: #ddd;
     margin-bottom: 10px;
     padding: 0;
-
 }
 
 li>a {
@@ -67,17 +64,37 @@ li>a {
         padding: 0;
         background-color: white;
     }
-section{
-    float: left;
-}
-#main{
-    width: 60%;
-}
-.sub-section{
-    width: 40%;
+
+    section{
+        float: left;
 }
 
-footer{
-    text-align: left;
+    #main{
+        width: 60%;
 }
+
+    .sub-section{
+        width: 40%;
+}
+
+    footer{
+        text-align: left;
+}
+
+footer>p{
+    width: 40%;
+    float: left;
+}
+
+#social-media-links{
+    height: 3%;
+    width: 3%;
+    float: right;
+    margin-top: 0;
+}
+
+
+
+
+
 }
