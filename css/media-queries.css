@@ -33,7 +33,6 @@ li {
 
 li>a {
     display: block;
-    width: 100%;
     padding: 20px 0;
     color: blue;
     text-decoration: underline;
@@ -51,7 +50,6 @@ li>a {
     }
     img {
         margin-top: 40px;
-        width: 100%;
     }
     nav {
         float: right;
@@ -70,11 +68,9 @@ li>a {
 }
 
     #main{
-        width: 60%;
 }
 
     .sub-section{
-        width: 40%;
 }
 
     footer{
@@ -82,7 +78,6 @@ li>a {
 }
 
 footer>p{
-    width: 40%;
     float: left;
 }
 

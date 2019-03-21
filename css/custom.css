@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+.jumbotron{
+    background-image: url("../img/pizza.png");
+
+}
+
+h1{
+    background-color: white;
+
+}
+div.container{
+    margin: 0;
+    padding: 0;
+}
